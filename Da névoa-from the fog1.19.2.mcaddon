@@ -1,0 +1,51 @@
+format_version":  2,
+    "header":  {
+        "description":  "esse addon pack adiciona o Herobrine no seu mundo ele estÃ¡ te assistindo de longe e fazendo alteraÃ§Ãµes no seu mundo lembrado que esse addon funciona na versÃ£o nova do Minecraft \n\nCopyright Â©ï¸  by Marcosbrine ",
+        "name":  "do nevoeiro-from the fog ",
+        "uuid":  "d2de455e-5656-4ddc-aeb4-85c16aac992f",
+        "version":  [
+            1,
+            0,
+            0
+        ],
+        "min_engine_version":  [
+            1,
+            21,
+            51
+        ]
+    },
+    "modules":  [
+        {
+            "description":  "esse addon pack adiciona o Herobrine no seu mundo ele estÃ¡ te assistindo de longe e fazendo alteraÃ§Ãµes no seu mundo lembrado que esse addon funciona na versÃ£o nova do Minecraft \n\nCopyright Â©ï¸  by Marcosbrine ",
+            "type":  "data",
+            "uuid":  "a0e052d8-0567-45d4-aaa2-7012fd4d7e09",
+            "version":  [
+                1,
+                0,
+                0
+            ]
+        }
+    ],
+    "dependencies":  [
+        {
+            "uuid":  "b7b3e57a-3d80-4e2b-883c-e64b64b82065",
+            "version":  [
+                1,
+                0,
+                0
+            ]
+        },
+        {
+            "version":  "1.17.0-beta",
+            "module_name":  "@minecraft/server"
+        },
+        {
+            "version":  "1.4.0-beta",
+            "module_name":  "@minecraft/server-ui"
+        },
+        {
+            "version":  "1.2.0",
+            "module_name":  "@minecraft/common"
+        }
+    ]
+}
